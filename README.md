@@ -1,6 +1,6 @@
 # howstheweather
 
-![alt text](assets/Screenshot (79).png)
+![alt text](assets/Screenshot(79).png)
 
 This **Weather Forecast Site** was created to give you a simple weather report.
 
